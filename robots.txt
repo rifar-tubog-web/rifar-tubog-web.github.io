@@ -1,0 +1,25 @@
+# robots.txt generated 2025-08-17
+# Разрешаем основным поисковым системам
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Блокируем остальных
+User-agent: *
+Disallow: /
+
+Sitemap: https://rifar-tubog-web.github.io/sitemap.xml
